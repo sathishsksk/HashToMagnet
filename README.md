@@ -1,4 +1,4 @@
-# magnet link oluşturma vs
+# hash to magnet link 
 
 
-https://hardrisk.github.io/magnet/
+https://sathishsksk.github.io/HashToMagnet/
